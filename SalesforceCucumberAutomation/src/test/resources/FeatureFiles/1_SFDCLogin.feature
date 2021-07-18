@@ -7,4 +7,4 @@ Feature: Login feature verification for salesforce application
 
     Examples: 
       | username  | password  |
-      | ajayalugolu2529-2fgm@force.com | PassWord@SF1 |
+      | ajayalugolu2529-kfkl@force.com | PassWord@SF1 |
